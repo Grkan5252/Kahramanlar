@@ -1,0 +1,173 @@
+.Şablon{
+width: 1300px;
+height: 1925px;
+
+
+
+
+}
+.Başlık{
+    width: 1300px;
+    height: 160px;
+    
+    display: flex;
+}
+.Dünya{
+
+    width: 100px;
+    height: 100px;
+    
+    margin-left: 40px;
+    margin-top: 30px;
+    
+
+    
+}
+.ismim{
+
+    width: 170px;
+    height: 135px;
+    
+    margin-left: 15px;
+    margin-top: 20px;
+    display: block;
+    
+    
+}
+.Arama{
+    width: 500px;
+    height: 135px;
+    
+    margin-left: 100px;
+    margin-top: 20px;
+    display: flex;
+}
+.Aramabutonu{
+    width: 400px;
+    height: 80px;
+    
+    margin-top: 30px;
+    margin-left: 15px;
+    display: flex;
+    gap:10px;
+}
+.Aramabutonu Button{
+    all: unset;
+        font-family: sans-serif;
+        margin-top: 22px;
+        
+        color:black;
+        padding: 4px;
+        border-radius: 5px;
+        width: 40px;
+        height: 35px;
+}
+.Üçnokta{
+
+    width: 350px;
+    height: 135px;
+    
+    margin-top: 20px;
+    margin-left: 20px;
+    display: flex;
+    gap: 15px;
+}
+.Reklam{
+
+    width: 1300px;
+    height: 160px;
+    
+    display: flex;
+}
+.Reklam1{
+width: 300px;
+height:160px ;
+
+background-image: url(İmages/Kaslı\ Gladyötör.jpeg);
+color: aqua;
+
+}
+.reklam2{
+    width: 300px;
+    height: 160px;
+    
+    background-image: url(İmages/Mısır\ Pramiti.jpeg);
+}
+.reklam3{
+    width: 300px;
+    height: 160px;
+    
+    background-image: url(İmages/Vikingler.jpeg);
+    color:aqua;
+}
+.reklam4{
+
+    width: 400px;
+    height: 160px;
+    
+    color: darkblue;
+    background-image: url(İmages/Taş\ Devri.jpeg);
+
+}
+.Fatihİsim{
+width: 1000px;
+height: 50px;
+
+font-size:1.8em;
+text-align: center;
+
+
+}
+.Fatihiçerik{
+
+    width: 1300px;
+    height: 700px;
+    
+    display: flex;
+}
+.FatihBiyografi{
+width: 900px;
+height: 700px;
+
+background-image: url(İmages/Fatih.webp);
+}
+.FatihResim{
+    width: 400px;
+    height: 700px;
+    
+    text-align: center;
+    
+}
+.Atatürkİsim{
+    width: 1000px;
+    height: 50px;
+    
+    font-size:1.8em;
+    text-align: center;
+}
+.Atatürkresim{
+
+    width: 900px;
+    height: 810px;
+    
+    background-image: url(İmages/MustafaKemal.webp);
+}
+.Atatürkbiyografi{
+
+    width: 400px;
+    height: 810px;
+    
+    text-align: center;
+}
+.Atatürkİçerik{
+
+    width: 1300px;
+    height: 490px;
+    
+    display: flex;
+}
+
+
+
+    
+
